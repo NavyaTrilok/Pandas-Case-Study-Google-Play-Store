@@ -1,6 +1,6 @@
 **Google App Store Case Study**
-
-Answers/code to these questions are in the attached notebook.
+**
+Answers/code to these questions are in the attached notebook.**
 
 1. Display Top 5 Rows of The Dataset
 2. Check the Last 3 Rows of The Dataset

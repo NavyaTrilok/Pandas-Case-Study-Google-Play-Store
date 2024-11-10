@@ -18,3 +18,5 @@
 14. Display Top 5 Apps Having Highest Reviews
 15. Find Average Ra&ng of Free and Paid Apps
 16. Display Top 5 Apps Having Maximum Installs
+
+Took the questions from Data Thinkers channel from YouTube - https://www.youtube.com/watch?v=qBOw_kcTLpU
